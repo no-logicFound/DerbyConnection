@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Wed Sep 01 22:59:33 EDT 2021:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017b-a472-81ec-0000073843b8 
+Thu Sep 02 12:13:44 EDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017b-a749-9d78-0000073843b8 
 on database directory C:\Users\bradl\DerbyConnection\testDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
 Loaded from file:/C:/Users/bradl/Downloads/Java/db-derby-10.15.2.0-bin/lib/derby.jar
 java.vendor=Oracle Corporation
